@@ -3,10 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Title</title>
+    <title>Jaelvis</title>
     <link href="/assets/css/app.css" rel="stylesheet">
-
-
 </head>
 <body class="text-white bg-black">
 <section class="h-screen bg-origin-padding bg-no-repeat bg-left-bottom bg-auto bg-contain" style="background-image: url('assets/img/img_elvis_site.webp')">
